@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-app",
+  "version": "1.0.0",
+  "description": "A simple full stack application that renders a static website using an Express server",
+  "main": "express.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Harvey Jay Sison",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
